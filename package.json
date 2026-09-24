@@ -1,0 +1,14 @@
+{
+  "name": "petras-dovydaitis",
+  "version": "1.0.0",
+  "description": "Petro Dovydaičio vaizdo sveikinimų užsakymo puslapis: demo režimas GitHub Pages ir tikras Node + SQLite serveris lokaliai.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server/server.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  },
+  "license": "MIT"
+}
