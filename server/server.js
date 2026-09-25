@@ -41,7 +41,7 @@ const OCCASIONS = [
   "Gimtadienis", "Vestuvės", "Jubiliejus", "Kalėdos / Naujieji metai",
   "Palaikymas / padrąsinimas", "Šiaip, geros nuotaikos proga", "Kita (aprašyk žinutėje)"
 ];
-const TONES = ["Juokingas", "Nuoširdus", "Motyvuojantis", "Su daina / repu", "Palieku Petrui nuspręsti"];
+const TONES = ["Juokingas", "Nuoširdus", "Motyvuojantis", "Su daina / repu", "Palieku Jonui nuspręsti"];
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 function validate(body) {
@@ -130,7 +130,7 @@ const server = http.createServer(async (req, res) => {
       if (error) return sendJson(res, 400, { error });
       const r = insertOrder.run(order.recipient, order.occasion, order.details, order.tone,
         order.deadline, order.email, order.phone);
-      const id = "PD-" + String(r.lastInsertRowid).padStart(4, "0");
+      const id = "JJ-" + String(r.lastInsertRowid).padStart(4, "0");
       console.log(`Naujas užsakymas ${id}: ${order.occasion}`);
       return sendJson(res, 201, { id });
     }
