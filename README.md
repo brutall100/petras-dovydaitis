@@ -13,7 +13,7 @@ Vieno puslapio svetainė, kurioje galima užsisakyti asmeninį Jono Jonaičio va
 
 ## Apie projektą
 
-Jonas yra vienas spalvingiausių Lietuvos TikTok personažų ir „Jungle King 5“ kovos nugalėtojas. Todėl puslapis sukurtas kaip **kovos vakaro plakatas**: „Jonas Jonaitis *prieš* tavo šventę“. Skyriai vadinasi raundais, skaičiai pateikiami kaip boksininkų „tale of the tape“ lentelė, o fone siūbuoja arenos prožektoriai.
+Jonas Jonaitis yra išgalvotas personažas: linksmas ringo čempionas ir dainininkas. Todėl puslapis sukurtas kaip **kovos vakaro plakatas**: „Jonas Jonaitis *prieš* tavo šventę“. Skyriai vadinasi raundais, skaičiai pateikiami kaip boksininkų „tale of the tape“ lentelė, o fone siūbuoja arenos prožektoriai.
 
 Svetainė veikia dviem režimais:
 
@@ -113,7 +113,7 @@ petras-dovydaitis/
 - Šriftai: [Oswald](https://fonts.google.com/specimen/Oswald) (Vernon Adams ir kt.) ir [Barlow](https://fonts.google.com/specimen/Barlow) (Jeremy Tribby). Abu naudojami pagal SIL Open Font License.
 - Emoji ikonos rodomos naršyklės / sistemos šriftu.
 
-> ⚠️ Jonas Jonaitis yra tikras žmogus. Jo vardu viešai priimti užsakymus galima tik turint raštišką jo sutikimą ir susitarus dėl atlygio.
+> ℹ️ Jonas Jonaitis yra išgalvotas personažas. Bet kokie sutapimai su tikrais žmonėmis atsitiktiniai.
 
 ## Licencija
 
