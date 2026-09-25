@@ -117,4 +117,6 @@ petras-dovydaitis/
 
 ## Licencija
 
-[MIT](LICENSE) © 2026 brutall100
+[GNU AGPL-3.0](LICENSE) © 2026 brutall100
+
+Kodą galima laisvai naudoti, keisti ir platinti. Jei pakeistą versiją paleidi internete, jos kodą privalai atvirai pateikti ir savo svetainės lankytojams, su ta pačia AGPL-3.0 licencija.
