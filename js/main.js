@@ -122,7 +122,7 @@
   var messages = {
     recipient: "Įrašyk, kam skirtas sveikinimas.",
     occasion: "Pasirink progą.",
-    details: "Parašyk bent kelis žodžius, ką Petras turėtų paminėti.",
+    details: "Parašyk bent kelis žodžius, ką Jonas turėtų paminėti.",
     email: "Įrašyk teisingą el. pašto adresą, pvz., vardas@pastas.lt.",
     deadline: "Data negali būti praeityje.",
     consent: "Reikia sutikti su užsakymo sąlygomis."

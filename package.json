@@ -1,7 +1,7 @@
 {
-  "name": "petras-dovydaitis",
+  "name": "jonas-jonaitis",
   "version": "1.0.0",
-  "description": "Petro Dovydaičio vaizdo sveikinimų užsakymo puslapis: demo režimas GitHub Pages ir tikras Node + SQLite serveris lokaliai.",
+  "description": "Jono Jonaičio vaizdo sveikinimų užsakymo puslapis: demo režimas GitHub Pages ir tikras Node + SQLite serveris lokaliai.",
   "private": true,
   "type": "module",
   "scripts": {

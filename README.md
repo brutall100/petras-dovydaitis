@@ -1,6 +1,6 @@
-# 🥊 Petras Dovydaitis — vaizdo sveikinimai
+# 🥊 Jonas Jonaitis — vaizdo sveikinimai
 
-Vieno puslapio svetainė, kurioje galima užsisakyti asmeninį Petro Dovydaičio vaizdo sveikinimą už 30 €. Ji sukurta kaip kovos vakaro plakatas su gyvu „ringo prožektorių“ fonu.
+Vieno puslapio svetainė, kurioje galima užsisakyti asmeninį Jono Jonaičio vaizdo sveikinimą už 30 €. Ji sukurta kaip kovos vakaro plakatas su gyvu „ringo prožektorių“ fonu.
 
 **[▶ Gyva demo versija](https://brutall100.github.io/petras-dovydaitis/)** · **[Kodas](https://github.com/brutall100/petras-dovydaitis)**
 
@@ -13,7 +13,7 @@ Vieno puslapio svetainė, kurioje galima užsisakyti asmeninį Petro Dovydaičio
 
 ## Apie projektą
 
-Petras yra vienas spalvingiausių Lietuvos TikTok personažų ir „Jungle King 5“ kovos nugalėtojas. Todėl puslapis sukurtas kaip **kovos vakaro plakatas**: „Petras Dovydaitis *prieš* tavo šventę“. Skyriai vadinasi raundais, skaičiai pateikiami kaip boksininkų „tale of the tape“ lentelė, o fone siūbuoja arenos prožektoriai.
+Jonas Jonaitis yra išgalvotas personažas: linksmas ringo čempionas ir dainininkas. Todėl puslapis sukurtas kaip **kovos vakaro plakatas**: „Jonas Jonaitis *prieš* tavo šventę“. Skyriai vadinasi raundais, skaičiai pateikiami kaip boksininkų „tale of the tape“ lentelė, o fone siūbuoja arenos prožektoriai.
 
 Svetainė veikia dviem režimais:
 
@@ -100,7 +100,7 @@ petras-dovydaitis/
 │   └── main.js          # forma, tema, animacijos, ripple
 ├── images/
 │   ├── favicon.svg
-│   └── avatar.svg       # inicialų avataras „PD“
+│   └── avatar.svg       # inicialų avataras „JJ“
 ├── server/server.js     # Node.js + SQLite serveris (API ir statiniai failai)
 ├── docs/                # ekrano nuotraukos README failui
 ├── .env.example         # nustatymų pavyzdys
@@ -113,7 +113,7 @@ petras-dovydaitis/
 - Šriftai: [Oswald](https://fonts.google.com/specimen/Oswald) (Vernon Adams ir kt.) ir [Barlow](https://fonts.google.com/specimen/Barlow) (Jeremy Tribby). Abu naudojami pagal SIL Open Font License.
 - Emoji ikonos rodomos naršyklės / sistemos šriftu.
 
-> ⚠️ Petras Dovydaitis yra tikras žmogus. Jo vardu viešai priimti užsakymus galima tik turint raštišką jo sutikimą ir susitarus dėl atlygio.
+> ℹ️ Jonas Jonaitis yra išgalvotas personažas. Bet kokie sutapimai su tikrais žmonėmis atsitiktiniai.
 
 ## Licencija
 
